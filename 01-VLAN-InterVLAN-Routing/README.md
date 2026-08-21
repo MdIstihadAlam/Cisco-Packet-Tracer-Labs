@@ -42,11 +42,11 @@ This project demonstrates enterprise Layer 2 segmentation, 802.1Q trunking acros
 
 ### 1. Inter-VLAN Routing Verification
 Ping from PC1 (VLAN 10) to PC2 (VLAN 20) and PC9 (VLAN 30):
-![Inter-VLAN Ping Result](images/intervlan-ping.png)
+![Inter-VLAN Ping Result](images/ping-test.png)
 
 ### 2. Internet Reachability & Path Tracing
 Traceroute from PC1 to 8.8.8.8 verifying all routing hops:
-![Traceroute Result](images/traceroute-internet.png)
+![Traceroute Result](images/traceroute.png)
 
 ---
 
